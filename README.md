@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rahul.sinha1562001@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-84.web.app/static/media/resume.239ea222.pdf](https://my-portfolio-84.web.app/static/media/resume.239ea222.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-sinha84/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-sinha84/" height="30" width="40" /></a>
