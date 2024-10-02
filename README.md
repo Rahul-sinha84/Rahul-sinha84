@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-sinha84&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-sinha84" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-84.web.app/](https://my-portfolio-84.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio.rahulsinha.xyz/](https://portfolio.rahulsinha.xyz/)
 
 - 💬 Ask me about **MERN, Ethereum and React-Native**
 
